@@ -2,7 +2,7 @@
 
 ## Yes. You heard me right. Everything
 Syntax:
-#define <command> <macro>
+#define (command) (macro)
 (basically the C #define syntax)
 
 CAREFUL!!!:
